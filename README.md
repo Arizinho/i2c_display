@@ -1,4 +1,4 @@
-# Controle de LEDs e Display OLED com Raspberry Pi Pico
+# Display de LED
 
 Este projeto implementa um sistema de controle de LEDs RGB, matriz de LEDs WS2812 e um display de LED utilizando a Raspberry Pi Pico. O sistema permite o acionamento dos LEDs por meio de botões, exibição de caracteres no display e representação de números na matriz de LEDs.
 
